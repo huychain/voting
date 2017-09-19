@@ -22,10 +22,18 @@ node_modules/.bin/testrpc
 
 ## Screenshots
 
-<!--
-![screenshot 1](https://koenig-media.raywenderlich.com/uploads/2014/07/MoveCardsNoClip.gif)
--->
+### Voting App Architecture
+![architecture](./screenshoots/architecture.png)
 
-=====
+### EthereumJS TestRPC local server
+![server](./screenshoots/server.png)
+
+### Commandline client
+![cmd](./screenshoots/cmd.png)
+
+### Web Browser client
+![browser](./screenshoots/browser.png)
+
+-----
 
 Source: [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
