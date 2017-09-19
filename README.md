@@ -11,6 +11,7 @@ The goal of this exercise is to:
 
 ```
 npm install ethereumjs-testrpc web3@0.20.1
+npm install solc
 ```
 
 ## Run
